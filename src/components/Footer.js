@@ -9,7 +9,7 @@ function Footer(){
          </p>
 
          <p>
-        © 2026 NTHATISI BEFOLE. All Rights Reserved.
+        © 2026. All Rights Reserved.
         </p>
 
         </footer>
